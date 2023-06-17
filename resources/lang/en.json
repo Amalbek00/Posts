@@ -1,0 +1,43 @@
+{
+    "You are logged in!": "You are logged in!",
+    "welcome": "Welcome, :name!",
+    "goodbye": "Goodbye, :NAME!",
+    "My Profile": "My Profile",
+    "Profile": "Profile",
+    "Photo Gallery": "Photo Gallery",
+    "update": "Update",
+    "back": "Back",
+    "Add Photo": "Add Photo",
+    "My Photos": "My photo",
+    "Logout": "Logout",
+    "Edit Photo": "Edit Photo:",
+    "Remove Photo": "Remove Photo",
+    "Save Photo": "Save Photo",
+    "login": "login",
+    "register": "register",
+    "All Photos": "All Photos",
+    "By": "By",
+    "Photo detail": "Photo detail",
+    "Average score": "Average score",
+    "Comments": "Comments",
+    "Email Address": "Email Address",
+    "Password": "Password",
+    "Confirm Password": "Confirm Password",
+    "Forgot Your Password?": "Forgot Your Password?",
+    "Comment": "Comment",
+    "Rating": "Rating",
+    "Add new comment": "Add new comment",
+    "Delete": "Delete",
+    "Edit Profile": "Edit Profile",
+    "Title": "Title",
+    "Photo": "Photo",
+    "Actions": "Actions",
+    "Add": "Add",
+    "Clear": "Clear",
+    "Name": "Name",
+    "Update": "Обновить"
+
+
+
+
+}
